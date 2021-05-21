@@ -1,0 +1,3 @@
+/Users/renato/Documents/nextcloud/pytorch_c++/bert_cpp/server-cpp/build/CMakeFiles/rebuild_cache.dir
+/Users/renato/Documents/nextcloud/pytorch_c++/bert_cpp/server-cpp/build/CMakeFiles/edit_cache.dir
+/Users/renato/Documents/nextcloud/pytorch_c++/bert_cpp/server-cpp/build/CMakeFiles/bert-cpp.dir
